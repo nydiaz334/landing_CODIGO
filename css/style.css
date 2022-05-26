@@ -1,0 +1,28 @@
+body, html{
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: linear-gradient(rgba(32, 11, 58, .10),rgba(46, 0, 53, .10)),url(../img/fondo2.jfif);
+    background-size: cover;
+    background-position: center;
+    color:black;
+}
+.logo{
+    height: 180px;
+    margin-top: 20px;
+}
+.text-description{
+    letter-spacing: 2px;
+    font-family: sans-serif;
+}
+.form-control{
+    background: transparent !important;
+    color:black !important;
+}
+a .fab{
+    color:black;
+    font-size: 30px;
+    margin: 0 10px;
+}
